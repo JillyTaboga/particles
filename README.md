@@ -69,3 +69,5 @@ Perseguição vermelha:
 O projeto pode ser executado em qualquer plataforma do Flutter, contudo é um projeto que exige processamento gráfico por conta da simulação, logo quanto mais potente o dispositivo melhor será a performance com mais partículas.
 
 O ambiente web é especialmente problemático para simulações com mais de 400 partículas.
+
+Site[https://lifeparticles.web.app/]
